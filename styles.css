@@ -1,0 +1,15 @@
+body {
+    background-color: white;
+  }
+  h1 {
+    color: red;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 45px;
+  }
+  b {
+    color: white;
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 25px;
+  }
